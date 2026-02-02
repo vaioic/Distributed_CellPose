@@ -1,6 +1,7 @@
 *.zarr
 .vscode
 dask_*
+*tempdir
 .kristin*
 
 # Byte-compiled / optimized / DLL files
